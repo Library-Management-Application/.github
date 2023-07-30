@@ -8,6 +8,6 @@ Its a Spring boot microservices based application with the following modules:
 
 - Manages customers
 
-- Display notifications (late returns etc.) (to be completed)
+- Display notifications (late returns etc.)
 
 - Charges annual fee (to be completed)
